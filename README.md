@@ -1,2 +1,1 @@
-# prace-na-hodine
 # praceNaHodine
